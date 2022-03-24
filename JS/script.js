@@ -7,7 +7,7 @@ function myFunction() {
     const addNew = document.getElementById("myText");
     const para = document.createElement("p");
     const rad = document.createElement("img");
-    rad.setAttribute("src", "assets/red.jpg");
+    rad.setAttribute("src", "assets/red.JPG");
         
     const leftContainer = document.getElementById("content-left");
     const righttContainer = document.getElementById("content-right");
