@@ -7,7 +7,7 @@ function myDynamic() {
     const para = document.createElement("p");
     const rad = document.createElement("img");
 
-    rad.setAttribute("src", "/assets/Red-incorrect-icon-on-transparent-background-PNG.png");
+    rad.setAttribute("src", "red.png");
 
     para.innerText = "This is a radio button.";
     document.getElementById("content-left").appendChild(rad);
