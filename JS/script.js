@@ -22,18 +22,7 @@ function myDynamic() {
 
 }
 
-// function myFunction() {
 
-//     var x = document.getElementById("myText");
-
-//     if (x.value == 0) {
-//         alert("please type something");
-//     }
-//     else {
-//         document.getElementById("demo").innerHTML = x.value;
-//         return myDynamic();
-//     }
-//   }
 
 
 
@@ -97,55 +86,6 @@ function myFunction() {
 
 
 
-
-// document.getElementById("content-left").innerHTML = "HELLO WORLD";
-// document.getElementById("content-right").innerHTML = "HELLO WORLD";
-
-// document.getElementById("below-content-left").innerHTML = "HELLO WORLD";
-// document.getElementById("below-content-right").innerHTML = "HELLO WORLD";
-
-
-
-// function myDynamic() {
-
-// const para = document.createElement("p");
-// const rad = document.createElement("input");
-// rad.setAttribute("type","radio");
-
-// para.innerText = "This is a radio button.";
-
-
-// document.getElementById("content-left").appendChild(rad);
-// document.getElementById("content-right").appendChild(para);
-
-
-
-// }
-
-// function myDynamic() {
-//     const para = document.createElement("p");
-//     const rad = document.createElement("input");
-//     rad.setAttribute("type", "radio");
-
-//     para.innerText = "This is a radio button.";
-//     document.getElementById("content-left").appendChild(rad);
-//     document.getElementById("content-right").appendChild(para);
-
-//     rad.addEventListener('click', function removeList() {
-//         const rad = document.getElementById("content-left");
-//         const para = document.getElementById("content-right");
-//         rad.removeChild(rad.firstElementChild);
-//         para.removeChild(para.firstElementChild);
-//     })
-
-// }
-
-//  function removeList () {
-//      const rad = document.getElementById("content-left");
-//      const para = document.getElementById("content-right");
-//      rad.removeChild(rad.firstElementChild);
-//      para.removeChild(para.firstElementChild);
-//  }
 
 
 
