@@ -6,7 +6,7 @@ function myFunction() {
 
     const addNew = document.getElementById("myText");
     const para = document.createElement("p");
-    const rad = document.createElement("input");
+    const rad = document.createElement("INPUT");
     rad.setAttribute("type", "radio");
     
     
